@@ -1,3 +1,5 @@
+
+/*---------------------PAGINA PRINCIPAL----------------------------*/
 var myIndex = 0;
 carousel();
 
@@ -23,3 +25,4 @@ $(document).ready(function(){
        e.preventDefault();
    })
 });
+/*---------------------PAGINA PRINCIPAL----------------------------*/
